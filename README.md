@@ -1,4 +1,4 @@
-# Rest-API-CURD-Book-API
+# Rest-API-CURD-BookStore (Node.js)
 
 **Technologies/Libraries used** : Node.js, Express.js, Mongo DB
 
